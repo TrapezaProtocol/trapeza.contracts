@@ -1,2 +1,21 @@
-# trapeza-contracts
-contracts of trapeza
+
+# Contract addresses
+
+## Mainnet
+
+### Core
+
+- FIDL : [0x414a36a4b79Ee1D4b454AB798E4179ffC00b1641](https://bscscan.com/address/0x414a36a4b79Ee1D4b454AB798E4179ffC00b1641)
+- sFIDL : [0x79cF77b918e671cbf9617C6afa883C311c712C93](https://bscscan.com/address/0x79cF77b918e671cbf9617C6afa883C311c712C93)
+- Treasury : [0x282cBA0034b8Ce7394c0737F0571945e15Ed242E](https://bscscan.com/address/0x282cBA0034b8Ce7394c0737F0571945e15Ed242E)
+- Bond Calculator : [0x651c3f1d62a8f38cffF4Eb3310adEb897e33E400](https://bscscan.com/address/0x651c3f1d62a8f38cffF4Eb3310adEb897e33E400)
+- Staking : [0x2D1E126b0700D419f8B742118Fb4fa1dEc8c4a62](https://bscscan.com/address/0x2D1E126b0700D419f8B742118Fb4fa1dEc8c4a62)
+- Staking Helper: [0xD6175E27A75Cb69E3147F80dd261cB4240309dc1](https://bscscan.com/address/0xD6175E27A75Cb69E3147F80dd261cB4240309dc1)
+- Distributor: [0xb7fB2d4b465342fD1Eb4214a0BbA618fBec5aCE8](https://bscscan.com/address/0xb7fB2d4b465342fD1Eb4214a0BbA618fBec5aCE8)
+- BUSD Bond: [0x23911A6812012FA1976F5145840BF4b479D2F63F](https://bscscan.com/address/0x23911A6812012FA1976F5145840BF4b479D2F63F)
+- FIDL-BUSD Bond: [0x243699A1204235da071701d93D22aC6e70479F38](https://bscscan.com/address/0x243699A1204235da071701d93D22aC6e70479F38)
+- tFIDL : [0xBe636D7878c704e764e3b262090EE55cD4733548](https://bscscan.com/address/0xBe636D7878c704e764e3b262090EE55cD4733548)
+
+### Proxy
+
+- DAO: [0xce47c777ea3Cf3A2F371Fc4890F57c8185808DaC](https://bscscan.com/address/0xce47c777ea3Cf3A2F371Fc4890F57c8185808DaC)
